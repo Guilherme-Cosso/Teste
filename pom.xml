@@ -8,6 +8,7 @@
 		<version>2.6.0</version>
 		<relativePath/>
 		<!-- lookup parent from repository -->
+		<!-- Ola -->
 	</parent>
 	<groupId>teste.com</groupId>
 	<artifactId>forum</artifactId>
